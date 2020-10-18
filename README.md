@@ -1,2 +1,3 @@
 # web2-mini-projet1
-Mini-projet réalisé par HTML/CSS
+## réalisé par HTML/CSS
+### Interface d'un site web d'une école privé
